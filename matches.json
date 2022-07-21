@@ -12,8 +12,18 @@
     },
      "visitante":{
       "nome": "Argentina",
-      "forca": 5,
+      "forca": 4,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    },
+    "mandante":{
+      "nome": "Uruguay",
+      "forca": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+    },
+     "visitante":{
+      "nome": "Alemania",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/it.png"
     }
   }
 ]
